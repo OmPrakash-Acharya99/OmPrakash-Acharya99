@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @OmPrakash-Acharya99
+- I am currently a Django backend developer
 - 👀 I’m interested in Machine Learning with Computer Vision
 - 🌱 I’m currently Studying Robotics And Artificial intelligence Engineering 
 - 💞️ I’m looking  for an internship as a software Developer 
